@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+This is Sophy. 
+this is my first web site.
 You can use the [editor on GitHub](https://github.com/sophyleu2000/demo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
